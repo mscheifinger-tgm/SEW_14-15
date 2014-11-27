@@ -1,3 +1,6 @@
 [code text]
 Learning to use git are:
-Marco Scheifinger Grade/Form of school[/code]
+Marco Scheifinger
+
+v 0.6
+[/code]
